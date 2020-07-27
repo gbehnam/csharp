@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-
+    // Initialize the varible which will appear in unity
     public Vector3 startPosition;
 
 

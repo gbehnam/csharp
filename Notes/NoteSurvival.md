@@ -18,4 +18,6 @@
 * Add the post process volume component
 * Check the is global to make the effect global
 * Add a profile (click new in front of the profile)
-*
+* Then add effects (Bloom, Vignette, ...)
+* change the layer as well
+* to add color grading effect: edit -> project settings -> player -. color space >> change to linear

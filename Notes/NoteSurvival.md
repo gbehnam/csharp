@@ -12,4 +12,7 @@
 
 #### 3. Post Processing:
 * Add Post Process layer to the camera
-* Define a layer
+* Add a new layer
+* Assign the Post Process layer the new layer (now we can attach volumes to that layer)
+* create an empty object
+* Add the post process volume component 

@@ -9,3 +9,7 @@
 #### 2. Add component -> rigid body
 * Attaches the physics
 * You can set gravity to the object
+
+#### 3. Post Processing:
+* Add Post Process layer to the camera
+* Define a layer

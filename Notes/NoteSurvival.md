@@ -15,4 +15,7 @@
 * Add a new layer
 * Assign the Post Process layer the new layer (now we can attach volumes to that layer)
 * create an empty object
-* Add the post process volume component 
+* Add the post process volume component
+* Check the is global to make the effect global
+* Add a profile (click new in front of the profile)
+*

@@ -21,3 +21,8 @@
 * Then add effects (Bloom, Vignette, ...)
 * change the layer as well
 * to add color grading effect: edit -> project settings -> player -. color space >> change to linear
+
+#### 4. Quaternions and Euler Angles:
+* Quaternions have 4 degrees of freedom but angles have three
+* Unity uses the Quaternions angle but converts it to Euler angles to be more readable
+* You should always change the Quaternions angles
